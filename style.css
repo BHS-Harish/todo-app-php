@@ -1,0 +1,6 @@
+*{
+    user-select: none;
+}
+.row{
+    margin: 10px 0 !important;
+}
